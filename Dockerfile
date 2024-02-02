@@ -1,4 +1,4 @@
-FROM libwebp/libwebp-dev@1.2.4-0.2+deb12u1, @1.2.4-0.2+deb12u1
+FROM node:18.18.2
 
 RUN npm install -g npm@9.1.3
 
