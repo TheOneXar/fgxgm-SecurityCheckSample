@@ -1,4 +1,4 @@
-FROM curl/libcurl4-openssl-dev@7.88.1-10+deb12u4
+FROM libwebp/libwebp-dev@1.2.4-0.2+deb12u1, @1.2.4-0.2+deb12u1
 
 RUN npm install -g npm@9.1.3
 
